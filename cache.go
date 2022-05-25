@@ -31,4 +31,5 @@ func (c Cache) Keys() []string {
 }
 
 func (c Cache) PutTill(key, value string, deadline time.Time) {
+	//	function empty
 }
